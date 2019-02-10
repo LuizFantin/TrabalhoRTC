@@ -1,4 +1,7 @@
+
+//Biblioteca responsável pela comunicação I2C do projeto
 #include "Wire.h"
+//Biblioteca responsável pelo LCD
 #include<LiquidCrystal.h>
 #define DS1307_ADDRESS 0x68
  
